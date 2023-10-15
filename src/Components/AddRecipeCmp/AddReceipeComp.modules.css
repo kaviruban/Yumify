@@ -1,0 +1,105 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.total-container {
+  display: flex;
+  flex-direction: column;
+}
+.header-container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 100px;
+  background-color: rgb(183, 183, 183);
+}
+.input-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  gap: 20px;
+}
+.recipe-title-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.recipe-description-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.recipe-description-box {
+  padding: 30px;
+  font-size: 1rem;
+}
+.choose-category-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.ingredients-box {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 2px;
+}
+
+.ingredients-container {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  border: 1px solid grey;
+  gap: 10px;
+  padding: 10px;
+}
+.remove-btn {
+  padding: 2px 10px;
+  height: 30px;
+  background-color: grey;
+}
+.ingredient_input {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.ingredient_input > input {
+  width: 50%;
+  border: 1px solid green;
+}
+.local-container {
+  display: flex;
+  align-items: center;
+}
+.cross-button {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  /* background-color: aquamarine; */
+}
+.button {
+  padding: 12px;
+  background-color: green;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+.description-container > input {
+  width: 95%;
+  border: 1px solid green;
+}
+.servings-container > input {
+  width: 100%;
+}
+.preparation-time-container > input {
+  width: 100%;
+}
+.calories-container > input {
+  width: 100%;
+}
