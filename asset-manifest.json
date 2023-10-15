@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/cookapp/static/css/main.0703d974.css",
+    "main.js": "/cookapp/static/js/main.9a11c405.js",
+    "static/media/sliderA_02.5936693f.jpg": "/cookapp/static/media/sliderA_02.5936693f.51943ee6c1a0263b4272.jpg",
+    "static/media/sliderA_01.7f16b740.jpg": "/cookapp/static/media/sliderA_01.7f16b740.14d4d16b33dfd1e27982.jpg",
+    "static/media/recipeThumb-06.dd48571d.jpg": "/cookapp/static/media/recipeThumb-06.dd48571d.39b41394833e9c68063b.jpg",
+    "static/media/recipeThumb-02.3661f369.jpg": "/cookapp/static/media/recipeThumb-02.3661f369.1f29337f662702d67972.jpg",
+    "static/media/recipeThumb-01.287a77c6.jpg": "/cookapp/static/media/recipeThumb-01.287a77c6.f9b7d01201ae4a2ae6f5.jpg",
+    "static/media/recipeThumb-03.2df93665.jpg": "/cookapp/static/media/recipeThumb-03.2df93665.94419976acd6650fb603.jpg",
+    "static/media/recipeThumb-04.f67b96d7.jpg": "/cookapp/static/media/recipeThumb-04.f67b96d7.c6d2130a6bace8da84f8.jpg",
+    "static/media/recipeThumb-05.f9f2ff9c.jpg": "/cookapp/static/media/recipeThumb-05.f9f2ff9c.9edc5126cf63da11ecb1.jpg",
+    "index.html": "/cookapp/index.html",
+    "main.0703d974.css.map": "/cookapp/static/css/main.0703d974.css.map",
+    "main.9a11c405.js.map": "/cookapp/static/js/main.9a11c405.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0703d974.css",
+    "static/js/main.9a11c405.js"
+  ]
+}
